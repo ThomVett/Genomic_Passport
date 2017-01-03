@@ -26,5 +26,5 @@ How to run the program (From the Terminal)
 `python main.py -f patientName.vcf`
  
  
- ### Results
- Folder where the results of the pipeline are stored. One folder per day with one folder per patient.# Genomic_Passport
+### Results
+Folder where the results of the pipeline are stored. One folder per day with one folder per patient.
